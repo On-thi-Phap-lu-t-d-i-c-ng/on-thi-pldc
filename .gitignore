@@ -1,0 +1,7 @@
+# Dependencies & Cache
+.netlify/
+deploy/
+*.tmp
+*.log
+
+# Keep PDFs & project files
