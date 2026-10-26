@@ -9,8 +9,8 @@
 
 ### 🚀 **Trang Web Ôn Tập, Thi Thử & Tra Cứu Trắc Nghiệm Pháp Luật Đại Cương Toàn Diện**
 
-**[👉 TRUY CẬP TRANG WEB NGAY 👈](https://zeny07.github.io/on-thi-pldc/)**  
-*(Hoặc dùng link rút gọn: [https://is.gd/onthipldc](https://is.gd/onthipldc))*
+**[👉 TRUY CẬP TRANG WEB NGAY 👈](https://on-thi-phap-lu-t-d-i-c-ng.github.io/on-thi-pldc/)**  
+*(Hoặc dùng link rút gọn: [https://is.gd/onthipldc2024](https://is.gd/onthipldc2024))*
 
 </div>
 
@@ -85,7 +85,7 @@ Dự án cung cấp một nền tảng web trắc nghiệm **Pháp luật đại
 
 1. Tải repository này về máy hoặc clone:
    ```bash
-   git clone https://github.com/ZENY07/on-thi-pldc.git
+   git clone https://github.com/On-thi-Phap-lu-t-d-i-c-ng/on-thi-pldc.git
    ```
 2. Mở file `index.html` bằng bất kỳ trình duyệt nào (Chrome, Edge, Safari, Firefox).
 3. Bắt đầu ôn tập ngay lập tức!
