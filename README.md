@@ -9,8 +9,8 @@
 
 ### 🚀 **Trang Web Ôn Tập, Thi Thử & Tra Cứu Trắc Nghiệm Pháp Luật Đại Cương Toàn Diện**
 
-**[👉 TRUY CẬP TRANG WEB NGAY 👈](https://zeny07.github.io/phap-luat-dai-cuong-450/)**  
-*(Hoặc dùng link rút gọn: [https://is.gd/pldc450cau](https://is.gd/pldc450cau))*
+**[👉 TRUY CẬP TRANG WEB NGAY 👈](https://zeny07.github.io/on-thi-pldc/)**  
+*(Hoặc dùng link rút gọn: [https://is.gd/onthipldc](https://is.gd/onthipldc))*
 
 </div>
 
@@ -85,7 +85,7 @@ Dự án cung cấp một nền tảng web trắc nghiệm **Pháp luật đại
 
 1. Tải repository này về máy hoặc clone:
    ```bash
-   git clone https://github.com/ZENY07/phap-luat-dai-cuong-450.git
+   git clone https://github.com/ZENY07/on-thi-pldc.git
    ```
 2. Mở file `index.html` bằng bất kỳ trình duyệt nào (Chrome, Edge, Safari, Firefox).
 3. Bắt đầu ôn tập ngay lập tức!
