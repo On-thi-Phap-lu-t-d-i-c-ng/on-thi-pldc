@@ -1237,8 +1237,9 @@
     }
 
     // ==================== SHARE MODAL ====================
+    const PUBLIC_WEB_URL = 'https://zeny07.github.io/phap-luat-dai-cuong-450/';
     function openShareModal() {
-      const url = window.location.href;
+      const url = window.location.protocol === 'file:' ? PUBLIC_WEB_URL : window.location.href;
       document.getElementById('share-url-input').value = url;
       document.getElementById('qr-image').src = `https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${encodeURIComponent(url)}`;
       document.getElementById('share-modal').classList.remove('hidden');
