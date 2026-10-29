@@ -22,14 +22,12 @@ Dự án cung cấp nền tảng web ôn thi các môn đại cương UTE với 
 - **⚖️ Pháp luật đại cương (650 câu hỏi có đáp án chi tiết):**
   - **450 câu hỏi cốt lõi:** Bám sát bộ đề cương chuẩn từ các kỳ thi đại cương (đã chuẩn hóa dấu câu đồng nhất cho toàn bộ phương án A, B, C, D).
   - **200 câu hỏi chuyên sâu bổ sung:** Biên soạn trực tiếp dựa trên cuốn **Giáo trình Pháp luật đại cương (NXB Đại học Quốc gia TP. Hồ Chí Minh, xuất bản 2023 - ĐH Sư phạm Kỹ thuật TP.HCM biên soạn)**.
-- **📘 Triết học Mác - Lênin (60 câu hỏi trọng tâm):**
-  - Bao gồm hệ thống câu hỏi ôn tập theo 3 chương chuẩn của Giáo trình Bộ GD&ĐT (Chương 1: Triết học và vai trò của triết học trong đời sống xã hội; Chương 2: Chủ nghĩa duy vật biện chứng; Chương 3: Chủ nghĩa duy vật lịch sử).
-  - *Hiến pháp 2013*
-  - *Bộ luật Dân sự 2015*
-  - *Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2017)*
-  - *Bộ luật Lao động 2019*
-  - *Luật Hôn nhân và Gia đình 2014*
-  - *Luật Phòng, chống tham nhũng 2018*
+- **📘 Triết học Mác - Lênin (85 câu hỏi trắc nghiệm bám sát đề cương):**
+  - Biên soạn trực tiếp theo tài liệu **Hướng dẫn ôn tập thi (Phần 2)** theo 3 chương trọng tâm:
+    - *Chương 1:* Khái luận về triết học và triết học Mác - Lênin (25 câu)
+    - *Chương 2:* Chủ nghĩa duy vật biện chứng (30 câu)
+    - *Chương 3:* Chủ nghĩa duy vật lịch sử (30 câu)
+  - Chuẩn hóa 100% dấu câu đồng nhất cho tất cả các phương án.
 
 ---
 
