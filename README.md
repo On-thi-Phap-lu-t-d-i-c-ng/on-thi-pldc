@@ -10,7 +10,7 @@
 ### 🚀 **Trang Web Ôn Tập, Thi Thử & Tra Cứu Trắc Nghiệm Pháp Luật Đại Cương Toàn Diện**
 
 **[👉 TRUY CẬP TRANG WEB NGAY 👈](https://on-thi-ute.github.io/on-thi-UTE/)**  
-*(Hoặc dùng link rút gọn: [https://is.gd/onthiute](https://is.gd/onthiute))*
+*(Hoặc dùng link rút gọn: [https://is.gd/onthiute2025](https://is.gd/onthiute2025))*
 
 </div>
 
