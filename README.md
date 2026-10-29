@@ -9,8 +9,8 @@
 
 ### 🚀 **Trang Web Ôn Tập, Thi Thử & Tra Cứu Trắc Nghiệm Pháp Luật Đại Cương Toàn Diện**
 
-**[👉 TRUY CẬP TRANG WEB NGAY 👈](https://on-thi-ute.github.io/on-thi-pldc/)**  
-*(Hoặc dùng link rút gọn: [https://is.gd/onthipldc2024](https://is.gd/onthipldc2024))*
+**[👉 TRUY CẬP TRANG WEB NGAY 👈](https://on-thi-ute.github.io/on-thi-UTE/)**  
+*(Hoặc dùng link rút gọn: [https://is.gd/onthiute](https://is.gd/onthiute))*
 
 </div>
 
@@ -88,7 +88,7 @@ Dự án cung cấp nền tảng web ôn thi các môn đại cương UTE với 
 
 1. Tải repository này về máy hoặc clone:
    ```bash
-   git clone https://github.com/On-thi-UTE/on-thi-pldc.git
+   git clone https://github.com/On-thi-Phap-lu-t-d-i-c-ng/on-thi-UTE.git
    ```
 2. Mở file `index.html` bằng bất kỳ trình duyệt nào (Chrome, Edge, Safari, Firefox).
 3. Bắt đầu ôn tập ngay lập tức!

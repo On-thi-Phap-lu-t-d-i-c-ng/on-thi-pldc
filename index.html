@@ -44,7 +44,7 @@
 
   <!-- Top Navigation Bar -->
   <header class="sticky top-0 z-40 bg-white/95 dark:bg-slate-800/95 backdrop-blur-md border-b border-slate-200 dark:border-slate-700 shadow-sm">
-    <div class="max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-3">
+    <div class="w-full max-w-[1800px] mx-auto px-3 sm:px-5 lg:px-6 h-16 flex items-center justify-between gap-3">
       <div class="flex items-center gap-3 min-w-0">
         <!-- Mobile Sidebar Drawer Button -->
         <button onclick="toggleMobileSubjectSidebar()" class="lg:hidden p-2 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-700 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 transition-all" title="Chọn môn ôn tập">
@@ -118,11 +118,11 @@
     <div id="mobile-subject-list" class="space-y-2.5 flex-1 overflow-y-auto custom-scrollbar"></div>
   </aside>
 
-  <!-- Main Layout Wrapper with Left Subject Sidebar -->
-  <div class="flex-1 max-w-[1600px] w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 flex flex-col lg:flex-row gap-6 items-start">
+  <!-- Main Layout Wrapper with Left Subject Sidebar (Moved further to left, balanced center) -->
+  <div class="flex-1 w-full max-w-[1800px] mx-auto px-3 sm:px-5 lg:px-6 py-5 flex flex-col lg:flex-row gap-4 lg:gap-5 items-start">
 
     <!-- ==================== LEFT SIDEBAR: SUBJECTS (MÔN ÔN THI / ÔN TẬP) ==================== -->
-    <aside class="w-full lg:w-64 xl:w-72 shrink-0 bg-white dark:bg-slate-800 rounded-2xl p-4 shadow-sm border border-slate-200/80 dark:border-slate-700 lg:sticky lg:top-20">
+    <aside class="w-full lg:w-60 xl:w-[260px] shrink-0 bg-white dark:bg-slate-800 rounded-2xl p-4 shadow-sm border border-slate-200/80 dark:border-slate-700 lg:sticky lg:top-20">
       <div class="flex items-center justify-between mb-3 pb-2.5 border-b border-slate-100 dark:border-slate-700">
         <div>
           <h2 class="font-extrabold text-sm text-slate-900 dark:text-white flex items-center gap-2">
@@ -179,7 +179,7 @@
         </div>
 
         <!-- Practice Workspace -->
-        <div class="flex flex-col xl:flex-row gap-6 items-start">
+        <div class="flex flex-col xl:flex-row gap-4 lg:gap-5 items-start">
           <!-- Center Column: Question Area -->
           <div class="flex-1 min-w-0 w-full space-y-4">
             <!-- Single Card View -->
@@ -194,7 +194,7 @@
           </div>
 
           <!-- Right Sidebar: Question Palette & Stats (Widened & Padded so rings never clip!) -->
-          <aside class="w-full xl:w-[340px] shrink-0 bg-white dark:bg-slate-800 rounded-2xl p-5 shadow-sm border border-slate-200/80 dark:border-slate-700 xl:sticky xl:top-20">
+          <aside class="w-full xl:w-[320px] shrink-0 bg-white dark:bg-slate-800 rounded-2xl p-4 sm:p-5 shadow-sm border border-slate-200/80 dark:border-slate-700 xl:sticky xl:top-20">
             <div class="flex items-center justify-between mb-3">
               <h3 class="font-bold text-sm text-slate-900 dark:text-white">Bảng câu hỏi</h3>
               <span id="palette-summary" class="text-xs font-semibold text-blue-600 dark:text-blue-400">0/650 đã làm</span>
@@ -287,11 +287,11 @@
         </div>
 
         <!-- Active Exam Workspace -->
-        <div id="exam-active-workspace" class="hidden flex flex-col xl:flex-row gap-6 items-start">
+        <div id="exam-active-workspace" class="hidden flex flex-col xl:flex-row gap-4 lg:gap-5 items-start">
           <div class="flex-1 min-w-0 w-full space-y-4">
             <div id="exam-questions-list" class="space-y-4"></div>
           </div>
-          <aside class="w-full xl:w-[340px] shrink-0 bg-white dark:bg-slate-800 rounded-2xl p-5 shadow-sm border border-slate-200/80 dark:border-slate-700 xl:sticky xl:top-20 space-y-4">
+          <aside class="w-full xl:w-[320px] shrink-0 bg-white dark:bg-slate-800 rounded-2xl p-4 sm:p-5 shadow-sm border border-slate-200/80 dark:border-slate-700 xl:sticky xl:top-20 space-y-4">
             <div class="text-center p-4 rounded-2xl bg-slate-50 dark:bg-slate-700/50 border border-slate-200/60 dark:border-slate-600">
               <div class="text-xs font-semibold uppercase tracking-wider text-slate-400 mb-1">Thời gian còn lại</div>
               <div id="exam-timer-display" class="text-3xl font-extrabold text-blue-600 dark:text-blue-400 font-mono">45:00</div>
@@ -401,7 +401,7 @@
 
   <!-- Footer -->
   <footer class="bg-white dark:bg-slate-800 border-t border-slate-200 dark:border-slate-700 py-4 mt-10">
-    <div class="max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-slate-500 dark:text-slate-400">
+    <div class="w-full max-w-[1800px] mx-auto px-3 sm:px-5 lg:px-6 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-slate-500 dark:text-slate-400">
       <div>🎓 Hệ thống Ôn Thi Đại Cương UTE — Pháp Luật Đại Cương (650 câu) & Triết Học Mác - Lênin</div>
       <div>Tự động lưu tiến độ học tập theo từng môn • Hỗ trợ Điện thoại & Máy tính</div>
     </div>
@@ -1504,7 +1504,7 @@
     }
 
     // ==================== SHARE MODAL ====================
-    const PUBLIC_WEB_URL = 'https://on-thi-ute.github.io/on-thi-pldc/';
+    const PUBLIC_WEB_URL = 'https://on-thi-ute.github.io/on-thi-UTE/';
     function openShareModal() {
       const url = window.location.protocol === 'file:' ? PUBLIC_WEB_URL : window.location.href;
       document.getElementById('share-url-input').value = url;
