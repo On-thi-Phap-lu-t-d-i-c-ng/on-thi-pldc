@@ -9,7 +9,7 @@
 
 ### 🚀 **Trang Web Ôn Tập, Thi Thử & Tra Cứu Trắc Nghiệm Pháp Luật Đại Cương Toàn Diện**
 
-**[👉 TRUY CẬP TRANG WEB NGAY 👈](https://on-thi-phap-lu-t-d-i-c-ng.github.io/on-thi-pldc/)**  
+**[👉 TRUY CẬP TRANG WEB NGAY 👈](https://on-thi-ute.github.io/on-thi-pldc/)**  
 *(Hoặc dùng link rút gọn: [https://is.gd/onthipldc2024](https://is.gd/onthipldc2024))*
 
 </div>
@@ -18,9 +18,12 @@
 
 ## 📖 Giới thiệu Dự án
 
-Dự án cung cấp một nền tảng web trắc nghiệm **Pháp luật đại cương** hiện đại, mượt mà và trực quan với ngân hàng **650 câu hỏi có đáp án chi tiết**:
-- **450 câu hỏi cốt lõi:** Bám sát bộ đề cương chuẩn từ các kỳ thi đại cương.
-- **200 câu hỏi chuyên sâu bổ sung:** Biên soạn trực tiếp dựa trên cuốn **Giáo trình Pháp luật đại cương (NXB Đại học Quốc gia TP. Hồ Chí Minh, xuất bản 2023 - ĐH Sư phạm Kỹ thuật TP.HCM biên soạn)**, cập nhật đầy đủ các văn bản pháp luật hiện hành mới nhất:
+Dự án cung cấp nền tảng web ôn thi các môn đại cương UTE với thanh **Sidebar chọn môn học bên trái** trực quan:
+- **⚖️ Pháp luật đại cương (650 câu hỏi có đáp án chi tiết):**
+  - **450 câu hỏi cốt lõi:** Bám sát bộ đề cương chuẩn từ các kỳ thi đại cương (đã chuẩn hóa dấu câu đồng nhất cho toàn bộ phương án A, B, C, D).
+  - **200 câu hỏi chuyên sâu bổ sung:** Biên soạn trực tiếp dựa trên cuốn **Giáo trình Pháp luật đại cương (NXB Đại học Quốc gia TP. Hồ Chí Minh, xuất bản 2023 - ĐH Sư phạm Kỹ thuật TP.HCM biên soạn)**.
+- **📘 Triết học Mác - Lênin (60 câu hỏi trọng tâm):**
+  - Bao gồm hệ thống câu hỏi ôn tập theo 3 chương chuẩn của Giáo trình Bộ GD&ĐT (Chương 1: Triết học và vai trò của triết học trong đời sống xã hội; Chương 2: Chủ nghĩa duy vật biện chứng; Chương 3: Chủ nghĩa duy vật lịch sử).
   - *Hiến pháp 2013*
   - *Bộ luật Dân sự 2015*
   - *Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2017)*
@@ -85,7 +88,7 @@ Dự án cung cấp một nền tảng web trắc nghiệm **Pháp luật đại
 
 1. Tải repository này về máy hoặc clone:
    ```bash
-   git clone https://github.com/On-thi-Phap-lu-t-d-i-c-ng/on-thi-pldc.git
+   git clone https://github.com/On-thi-UTE/on-thi-pldc.git
    ```
 2. Mở file `index.html` bằng bất kỳ trình duyệt nào (Chrome, Edge, Safari, Firefox).
 3. Bắt đầu ôn tập ngay lập tức!
